@@ -24,3 +24,4 @@ vue-router? (Y/n) Yes 其他暂时不用选No
 ```
 @import "../../assets/base.less";  // 本项目的通用less放在assets文件夹的base.less中
 ```
+## 使用elementUI网站中的组件
