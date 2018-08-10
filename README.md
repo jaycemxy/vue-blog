@@ -14,3 +14,5 @@ vue-router? (Y/n) Yes 其他暂时不用选No
 
 依赖安装完成根据提示进入项目目录，在该目录下npm run dev，开启一个server，在浏览器输入：http://localhost:8080，你会看到一个vue的demo
 ![配置](https://i.loli.net/2018/08/10/5b6d62810f322.png)
+## 创建路由页面
+将路由页面统一放在src/pages文件夹下，公用的组件统一放在src/components文件夹下
